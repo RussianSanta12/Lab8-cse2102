@@ -1,0 +1,33 @@
+
+[{
+    "id":1,
+    "question": "What is the capital of Connecticut?",
+    "answers": [{ "answer":"Stamford", "isCorrect":false }, { "answer": "Storrs", "isCorrect":false }, { "answer": "Hartford", "isCorrect":true } ]
+  },
+  {
+    "id":2,
+    "question": "What is the square root of 16?",
+    "answers": [{ "answer": "4", "isCorrect":true }, { "answer": "8", "isCorrect":false }, { "answer":"16", "isCorrect":false }]
+  },
+  {
+    "id":3,
+    "question": "What type of number is 101?",
+    "answers": [{ "answer": "prime", "isCorrect":true }, { "answer": "composite", "isCorrect":false }, { "answer":"neigher", "isCorrect":false }, { "answer":"both", "isCorrect":false }]
+  }
+  ,
+  {
+    "id":4,
+    "question": "Which planet is known as the Red Planet?",
+    "answers": [{ "answer": "Mars", "isCorrect":true }, { "answer": "Venus", "isCorrect":false }, { "answer":"Jupiter", "isCorrect":false }]
+  },
+  {
+    "id":5,
+    "question": "Who was the first human to set foot on the Moon?",
+    "answers": [{ "answer": "Yuri Gagarin", "isCorrect":false }, { "answer": "Neil Armstrong", "isCorrect":true }, { "answer":"Buzz Aldrin", "isCorrect":false }]
+  },
+  {
+    "id":6,
+    "question": "What is the name of our galaxy?",
+    "answers": [{ "answer": "Andromeda", "isCorrect":false }, { "answer": "Milky Way", "isCorrect":true }, { "answer":"Sombrero", "isCorrect":false }]
+  }
+]

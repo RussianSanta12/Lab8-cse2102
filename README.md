@@ -1,1 +1,2 @@
-# Lab8-cse2102
+to run this code you only need three steps one, npm install , npm test , and npm start then access the site shown in the port list and complete the quiz.
+what i did for this lab was first clone the repo of the starting code then asked copilot to refactor the scoring function into the controller and to add some test cases. the following code was then generated as so. When reviewing the quiz I then asked copilot to  create some more questions for the quiz. It was very interesting to see how organized this lab was each part of the site is stored in its own folder. 
